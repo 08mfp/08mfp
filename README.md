@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Mohamed Farid <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50"></h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=08mfp" alt="08mfp" /> </p>
+  <a href="https://github.com/anuraghazra/convoychat" style="flex: 1;">
+    <img height="200" style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=08mfp&theme=radical&hide_border=false" alt="08mfp" />
+  </a>
 
 <h2> About Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
 
@@ -11,17 +14,9 @@
 
 <h2> Some Stats! <img src="https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> </h2>
 
-<div style="display: flex; width: 100%; justify-content: space-between;">
   <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1;">
     <img height="200" style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=08mfp&show_icons=true&theme=radical&locale=en&hide_border=false" alt="08mfp" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat" style="flex: 1;">
-    <img height="200" style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=08mfp&theme=radical&hide_border=false" alt="08mfp" />
-  </a>
-</div>
-
-
-
 
 
 <h2> Licenses & Certifications <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
