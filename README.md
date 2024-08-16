@@ -12,18 +12,26 @@
 
 <h2> Some Stats! <img src="https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> </h2>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=08mfp&show_icons=true&theme=radical&locale=en&hide_border=false" alt="08mfp" style="max-width: 100%; height: auto;"/>
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=08mfp&theme=radical&hide_border=false" alt="08mfp" style="max-width: 100%; height: auto;"/>
-  </a>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+
+  <div style="flex: 1; min-width: 300px; margin: 10px;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=08mfp&show_icons=true&theme=radical&locale=en&hide_border=false" alt="08mfp" style="width: 100%; height: auto;"/>
+    </a>
+  </div>
+  
+  <div style="flex: 1; min-width: 300px; margin: 10px;">
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=08mfp&theme=radical&hide_border=false" alt="08mfp" style="width: 100%; height: auto;"/>
+    </a>
+  </div>
+  
 </div>
 
 <div style="margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=08mfp&langs_count=10&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=false" alt="08mfp" style="width: 100%; height: auto;"/>
 </div>
+
 
 
 <h2> Licenses & Certifications <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
