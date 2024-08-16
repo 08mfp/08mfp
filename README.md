@@ -4,33 +4,22 @@
 <h2> About Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
 
 - 🌱 I’m currently a Second-Year Computer Science Student at The University of Manachester, Graduating in July 2025.
-- 👀 I’m interested in Coding, Formula 1, and Football.
 - ⌨️ I consider myself a Full-Stack developer as i have experience on both Front-End and Back-End development.
-- 💞️ I’m looking to collaborate on any projects that you feel would improve both our skills and coding practices.
+- - 💞️ I’m looking to collaborate on any projects that you feel would improve both our skills and coding practices.
 - 📫 You can contact me at: contact@mohfarid.com
-- ⚡ Hey there, If you like any of my projects, please give them a star!
+- ⚡ If you like any of my projects, please give them a star!
 
 <h2> Some Stats! <img src="https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> </h2>
 
-<div style="display: flex; justify-content: space-between; align-items: center; height: 200px;">
-  
-  <div style="flex: 1; min-width: 300px; margin: 10px;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=08mfp&show_icons=true&theme=radical&locale=en&hide_border=false" alt="08mfp" style="width: 100%; height: 100%;"/>
-    </a>
-  </div>
-
-  <div style="flex: 1; min-width: 300px; margin: 10px;">
-    <a href="https://github.com/anuraghazra/convoychat">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=08mfp&theme=radical&hide_border=false" alt="08mfp" style="width: 100%; height: 100%;"/>
-    </a>
-  </div>
-  
+<div style="display: flex; width: 100%; justify-content: space-between;">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1;">
+    <img height="200" style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=08mfp&show_icons=true&theme=radical&locale=en&hide_border=false" alt="08mfp" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat" style="flex: 1;">
+    <img height="200" style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=08mfp&theme=radical&hide_border=false" alt="08mfp" />
+  </a>
 </div>
 
-<div style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=08mfp&langs_count=10&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=false" alt="08mfp" style="width: calc(100% - 40px); height: 200px; margin: 10px;"/>
-</div>
 
 
 
@@ -80,6 +69,9 @@
   </a>
 </p>
 
+<div style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=08mfp&langs_count=10&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=false" alt="08mfp" style="width: calc(100% - 40px); height: 200px; margin: 10px;"/>
+</div>
 
 
 
