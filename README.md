@@ -16,21 +16,22 @@
 
   <div style="flex: 1; min-width: 300px; margin: 10px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=08mfp&show_icons=true&theme=radical&locale=en&hide_border=false" alt="08mfp" style="width: 100%; height: auto;"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=08mfp&show_icons=true&theme=radical&locale=en&hide_border=false" alt="08mfp" style="width: 100%; height: 200px;"/>
     </a>
   </div>
   
   <div style="flex: 1; min-width: 300px; margin: 10px;">
     <a href="https://github.com/anuraghazra/convoychat">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=08mfp&theme=radical&hide_border=false" alt="08mfp" style="width: 100%; height: auto;"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=08mfp&theme=radical&hide_border=false" alt="08mfp" style="width: 100%; height: 200px;"/>
     </a>
   </div>
   
 </div>
 
 <div style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=08mfp&langs_count=10&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=false" alt="08mfp" style="width: 100%; height: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=08mfp&langs_count=10&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=false" alt="08mfp" style="width: calc(100% - 40px); height: 200px; margin: 10px;"/>
 </div>
+
 
 
 
