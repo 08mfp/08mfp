@@ -12,17 +12,17 @@
 
 <h2> Some Stats! <img src="https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> </h2>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
-
-  <div style="flex: 1; min-width: 300px; margin: 10px;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=08mfp&show_icons=true&theme=radical&locale=en&hide_border=false" alt="08mfp" style="width: 100%; height: 200px;"/>
-    </a>
-  </div>
+<div style="display: flex; justify-content: space-between; align-items: center; height: 200px;">
   
   <div style="flex: 1; min-width: 300px; margin: 10px;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=08mfp&show_icons=true&theme=radical&locale=en&hide_border=false" alt="08mfp" style="width: 100%; height: 100%;"/>
+    </a>
+  </div>
+
+  <div style="flex: 1; min-width: 300px; margin: 10px;">
     <a href="https://github.com/anuraghazra/convoychat">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=08mfp&theme=radical&hide_border=false" alt="08mfp" style="width: 100%; height: 200px;"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=08mfp&theme=radical&hide_border=false" alt="08mfp" style="width: 100%; height: 100%;"/>
     </a>
   </div>
   
