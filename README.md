@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Mohamed Farid <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50"></h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=08mfp" alt="08mfp" /> </p>
 
-<div style="display: flex;">
-  <img height="200" align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=08mfp&theme=radical&hide_border=false" alt="08mfp" />
-  <img height="200" align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=08mfp&langs_count=10&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=false" alt="08mfp" style="margin-left: 10px;" />
+<div style="display: centre;">
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=08mfp&theme=radical&hide_border=false" alt="08mfp" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=08mfp&langs_count=10&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=false" alt="08mfp" style="margin-left: 10px;" />
 </div>
 
 
