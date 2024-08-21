@@ -1,8 +1,14 @@
 <h1 align="center">Hi, I'm Mohamed Farid <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50"></h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=08mfp" alt="08mfp" /> </p>
-  <a href="https://github.com/anuraghazra/convoychat" style="flex: 1;">
-    <img height="200" style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=08mfp&theme=radical&hide_border=false" alt="08mfp" />
-  </a>
+
+<div style="display: flex;">
+  <img height="200" align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=08mfp&theme=radical&hide_border=false" alt="08mfp" />
+  <img height="200" align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=08mfp&langs_count=10&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=false" alt="08mfp" style="margin-left: 10px;" />
+</div>
+
+
+
+
 
 <h2> About Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
 
@@ -58,14 +64,6 @@
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
   </a>
 </p>
-
-<div style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=08mfp&langs_count=10&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=false" alt="08mfp" style="width: calc(100% - 40px); height: 200px; margin: 10px;"/>
-</div>
-
-
-
-
 
 <!---
 
