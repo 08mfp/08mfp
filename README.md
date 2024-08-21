@@ -3,8 +3,11 @@
 
 <div style="display: flex; justify-content: center;">
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=08mfp&theme=radical&hide_border=false" alt="08mfp" style="margin-right: 10px;" />
-  <img height="150"src="https://github-readme-stats.vercel.app/api/top-langs?username=08mfp&langs_count=10&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=false" alt="08mfp" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=08mfp&theme=radical&hide_border=false&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage," alt="08mfp" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=08mfp&langs_count=10&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=false" alt="08mfp" />
 </div>
+*stats do not include activity (issues, PRs, Commits) in private repositories
+
 
 
 
@@ -73,6 +76,8 @@
   <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1;">
     <img height="200" style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=08mfp&show_icons=true&theme=radical&locale=en&hide_border=false" alt="08mfp" />
   </a>
+
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=08mfp&theme=radical&hide_border=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="08mfp" />
 
 
 <h2> Licenses & Certifications <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
