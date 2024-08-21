@@ -2,8 +2,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=08mfp" alt="08mfp" /> </p>
 
 <div style="display: flex; justify-content: center;">
-  <img height="150" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=08mfp&theme=radical&hide_border=false" alt="08mfp" style="margin-right: 10px;" />
-  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=08mfp&langs_count=10&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=false" alt="08mfp" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=08mfp&theme=radical&hide_border=false" alt="08mfp" style="margin-right: 10px;" />
+  <img height="150"src="https://github-readme-stats.vercel.app/api/top-langs?username=08mfp&langs_count=10&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=false" alt="08mfp" />
 </div>
 
 
