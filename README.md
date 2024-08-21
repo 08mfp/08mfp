@@ -3,11 +3,8 @@
 
 <div style="display: flex; justify-content: center;">
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=08mfp&theme=radical&hide_border=false" alt="08mfp" style="margin-right: 10px;" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=08mfp&theme=radical&hide_border=false&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage," alt="08mfp" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=08mfp&langs_count=10&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=false" alt="08mfp" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=08mfp&langs_count=10&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=false" alt="08mfp" /> 
 </div>
-*stats do not include activity (issues, PRs, Commits) in private repositories
-
 
 
 
@@ -69,6 +66,8 @@
   </a>
 </p>
 
+
+
 <!---
 
 <h2> Some Stats! <img src="https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> </h2>
@@ -79,6 +78,8 @@
 
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=08mfp&theme=radical&hide_border=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="08mfp" />
 
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=08mfp&theme=radical&hide_border=false&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage," alt="08mfp" />
+*stats do not include activity (issues, PRs, Commits) in private repositories
 
 <h2> Licenses & Certifications <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 08mfp/08mfp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
