@@ -12,14 +12,9 @@
 - 📫 You can contact me at: contact@mohfarid.com
 - ⚡ If you like any of my projects, please give them a star!
 
-<h2> Some Stats! <img src="https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> </h2>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1;">
-    <img height="200" style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=08mfp&show_icons=true&theme=radical&locale=en&hide_border=false" alt="08mfp" />
-  </a>
 
 
-<h2> Licenses & Certifications <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
+<h2> Licenses & Certifications <img src="https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> </h2>
 
 <ul>
   <li><a href="https://www.coursera.org/account/accomplishments/specialization/4FMY9U0RV341" target="_blank">Meta Front-End Developer Certification</a></li>
@@ -73,6 +68,15 @@
 
 
 <!---
+
+<h2> Some Stats! <img src="https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> </h2>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1;">
+    <img height="200" style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=08mfp&show_icons=true&theme=radical&locale=en&hide_border=false" alt="08mfp" />
+  </a>
+
+
+<h2> Licenses & Certifications <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 08mfp/08mfp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
