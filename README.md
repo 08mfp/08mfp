@@ -2,10 +2,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=08mfp" alt="08mfp" /> </p>
 
 <div style="display: flex; justify-content: center;">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=08mfp&theme=radical&hide_border=false" alt="08mfp" style="margin-right: 10px;" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=08mfp&langs_count=10&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=false" alt="08mfp" /> 
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=08mfp&theme=transparent&hide_border=false" alt="08mfp" style="margin-right: 10px;" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=08mfp&langs_count=10&show_icons=true&theme=transparent&locale=en&layout=compact&hide_border=false" alt="08mfp" /> 
 </div>
-
+</br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=08mfp&theme=github-compact&hide_border=true" alt="08mfp" /> 
 
 
 
@@ -68,9 +69,14 @@
 
 
 
+
 <!---
 
 <h2> Some Stats! <img src="https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> </h2>
+
+custom_title=This%20is%20a%20title
+
+old theme was radical
 
   <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1;">
     <img height="200" style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=08mfp&show_icons=true&theme=radical&locale=en&hide_border=false" alt="08mfp" />
