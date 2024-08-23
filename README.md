@@ -15,7 +15,7 @@
 <h2> About Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
 
 - 🌱 I’m a Computer Science Student at The University of Manachester, Graduating in July 2025.
-- ⌨️ I consider myself a Full-Stack developer as i have experience on both Front-End and Back-End development (and on Data Science projects).
+- ⌨️ I consider myself a Full-Stack developer as i have experience on both Front-End and Back-End development.
 - 💞️ I’m looking to collaborate on any projects that you feel would improve both our skills and coding practices.
 - 📫 You can contact me at: contact@mohfarid.com or on [LinkedIn](www.linkedin.com/in/mohamedfaridpatel).
 - ⚡ If you like any of my projects, please give them a star!
