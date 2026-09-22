@@ -6,6 +6,13 @@
   <a href="mailto:contact@mohfarid.com"><img src="https://img.shields.io/badge/Email-contact%40mohfarid.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=08mfp&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" alt="Footer wave" />
+
 ## About Me
 
 I studied Computer Science at The University of Manchester, first a BSc and then an MSc in Advanced Computer Science, and I graduate in December 2026.
@@ -96,11 +103,11 @@ flowchart LR
 
 <p align="center">
   <img height="150" src="https://streak-stats.demolab.com/?user=08mfp&theme=transparent&hide_border=false" alt="GitHub streak" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=08mfp&langs_count=8&layout=compact&theme=transparent&hide_border=false" alt="Top languages" />
+  <!-- <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=08mfp&langs_count=8&layout=compact&theme=transparent&hide_border=false" alt="Top languages" /> -->
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=08mfp&theme=github-compact&hide_border=true" alt="Activity graph" />
-</p>
+</p> -->
 
 <p align="center"><i>Stats exclude private repositories.</i></p>
