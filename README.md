@@ -11,7 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=08mfp&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" alt="Footer wave" />
 
 ## About Me
 
@@ -111,3 +110,5 @@ flowchart LR
 </p> -->
 
 <p align="center"><i>Stats exclude private repositories.</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" alt="Footer wave" />
