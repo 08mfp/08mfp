@@ -14,7 +14,7 @@
 
 ## About Me
 
-I studied Computer Science at The University of Manchester, first a BSc and then an MSc in Advanced Computer Science, and I graduate in December 2026.
+I studied Computer Science at The University of Manchester, getting a BSc and an MSc in Advanced Computer Science. I graduate in December 2026.
 
 Most recently I built Pell, an iOS app that puts nutrition, training, sleep, mood, and habits in one place. Before that I interned at The Times, and I spent a year on the Formula Student team working on autonomous navigation.
 
